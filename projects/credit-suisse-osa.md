@@ -1,7 +1,7 @@
 ---
-title: Credit Suisse One Step Assistant
+title: Credit Suisse OSA
 id: 22 OSA* (D)
-description: A digital solution for Credit Suisse's International Wealth Management division
+description: Project OSA was a web platform developed for the International Wealth Management (IWM) division at Credit Suisse. It sought to improve management of key processes surrounding due diligence, know-your-client (KYC) and risk identification and mitigation.
 properties:
     -   key: Date
         value: 2022
@@ -29,6 +29,6 @@ We made sure interfaces linked in with each other extensively, providing speed a
 
 The scope of the project included high-fidelity prototyping of the conceptualised solution. This was created in Figma and presented to the client. Early business case analyses showed that the final solution could have allowed Relationship Managers to take up on an additional 4 clients each, while saving the IWM division over 80 thousand pounds annually.
 
-![MarketView— tool for relationship managers to receive signals about risks in the market](../src/credit-suisse-osa/IWM_Market_View_c6f783de6d.jpg)
-![Client dashboard](../src/credit-suisse-osa/IWM_Clients_e1b4dab8aa.jpg)
-![General dashboard](../src/credit-suisse-osa/IWM_Dashboard_3723836690.jpg)
+![MarketView— tool for relationship managers to receive signals about risks in the market](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/credit-suisse-osa/IWM_Market_View_c6f783de6d.jpg)
+![Client dashboard](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/credit-suisse-osa/IWM_Clients_e1b4dab8aa.jpg)
+![General dashboard](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/credit-suisse-osa/IWM_Dashboard_3723836690.jpg)
