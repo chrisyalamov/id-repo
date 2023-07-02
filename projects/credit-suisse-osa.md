@@ -26,6 +26,7 @@ By finding out about a relationship manager's workflow, we conceptualised an int
 # Outcome
 
 We made sure interfaces linked in with each other extensively, providing speed and ease of access to information for relationship managers. An example of this was in the MarketView tool which showed RMs the portfolios affected by a particular asset, ordered by size of investment.
+
 The scope of the project included high-fidelity prototyping of the conceptualised solution. This was created in Figma and presented to the client. Early business case analyses showed that the final solution could have allowed Relationship Managers to take up on an additional 4 clients each, while saving the IWM division over 80 thousand pounds annually.
 
 ![MarketView— tool for relationship managers to receive signals about risks in the market](../src/credit-suisse-osa/IWM_Market_View_c6f783de6d.jpg)
