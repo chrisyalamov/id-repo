@@ -1,6 +1,6 @@
 ---
 title: Credit Suisse One Step Assistant
-id: 22 OSA
+id: 22 OSA* (D)
 description: A digital solution for Credit Suisse's International Wealth Management division
 properties:
     -   key: Date
