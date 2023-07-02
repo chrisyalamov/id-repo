@@ -3,9 +3,9 @@ title: Credit Suisse One Step Assistant
 id: 22 OSA
 description: A digital solution for Credit Suisse's International Wealth Management division
 properties:
-    -   title: Date
+    -   key: Date
         value: 2022
-    -   title: Duration
+    -   key: Duration
         value: 3 mo
 ---
 > Credit Suisse Group AG is a Swiss financial services firm and global investment bank.
