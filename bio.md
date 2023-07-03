@@ -17,7 +17,7 @@ I have previously completed— 
 
 - **A-Levels in Business, Computer Science and Mathematics**
 
-    Olyumpus Academy Trust, Bristol, UK.
+    Olympus Academy Trust, Bristol, UK.
 
 
 # Experience
