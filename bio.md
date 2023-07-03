@@ -15,7 +15,7 @@ I have previously completed— 
 - **A-Levels in Business, Computer Science and Mathematics**  
     Olympus Academy Trust, Bristol, UK.
 
-## Qualifications
+## Qualifications
 
 - **AZ—900: Microsoft Azure Fundamentals**  
     This credential validates knowledge of fundamental cloud concepts, core Azure services, security, privacy, compliance and trust, as well as Azure Pricing and support.
