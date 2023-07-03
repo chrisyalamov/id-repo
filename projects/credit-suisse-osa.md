@@ -1,6 +1,7 @@
 ---
 title: Credit Suisse OSA
 id: 22 OSA* (D)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/credit-suisse-osa/barcode.jpg
 description: Project OSA was a web platform developed for the International Wealth Management (IWM) division at Credit Suisse. It sought to improve management of key processes surrounding due diligence, know-your-client (KYC) and risk identification and mitigation.
 properties:
     -   key: Date
