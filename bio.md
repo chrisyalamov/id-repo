@@ -1,8 +1,6 @@
-Hello.
+> Hello.
 
-I'm Chris.
-
-I am a student, designer and developer.
+I'm Chris. I am a student, designer and developer.
 
 # Education
 
@@ -11,12 +9,10 @@ I am currently an undergraduate student at Manchester Metropolitan University, s
 I have previously completed— 
 
 - **CertHE in Business and Management**  
-
     University of the West of England, Bristol, UK.  
     Faculty of Business and Law
 
-- **A-Levels in Business, Computer Science and Mathematics**
-
+- **A-Levels in Business, Computer Science and Mathematics**  
     Olympus Academy Trust, Bristol, UK.
 
 
