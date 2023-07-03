@@ -29,6 +29,7 @@ I founded and I am now chairing the Business and Information Technology Society 
 
 `MANCHESTER METROPOLITAN STUDENTS' UNION`
 `SEP 2022 —`
+
 As a course representative on my programme within the Faculty of Business and Law, I collect, aggregate and analyse course-related feedback from students. I address this feedback with staff, via the appropriate departments and channels and communicate outcomes to students. In this role, I have also worked to promote the adoption of inclusive curriculum practices.
 
 ## Financial Caseworker
