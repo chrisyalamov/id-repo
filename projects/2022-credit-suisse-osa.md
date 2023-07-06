@@ -8,6 +8,10 @@ properties:
         value: 2022
     -   key: Duration
         value: 3 mo
+tags:
+    - UI/UX Design
+    - Web Development
+    - Prototyping
 ---
 > Credit Suisse Group AG is a Swiss financial services firm and global investment bank.
 
