@@ -1,5 +1,5 @@
 ---
-title: "I rebuilt my portfolio 7 times: here are the 5 key lessons I learned."
+title: "I rebuilt my portfolio 7 times: here's what I learned"
 description: "How redesigning my personal brand over and over (and over) again made me think about iterative improvement."
 date: 1688344788
 ---
@@ -22,11 +22,11 @@ Once I had a better idea of what kind of stack I'd want to use for building my p
 
 This kicked off a long phase of collecting anything I came across that I liked the look of, then trying to replicate it in Figma. The result? A strange amalgamation of various styles that lacked much harmony and vaguely resembled my Dribbble/Bēhance feed.
 
-![Project page on an early version of my portfolio](<../src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.11.35.png>)
+![Project page on an early version of my portfolio](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.11.35.png)
 
-![Another project showcase page](<../src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.15.31.png>)
+![Another project showcase page](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.15.31.png)
 
-![Landing page concept](<../src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.16.57.png>)
+![Landing page concept](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.16.57.png)
 
 # Stage 3: Narrowing
 
@@ -52,7 +52,7 @@ Instead, I focused on creating an 'archive'— a repository of my work with no 
 
 After rethinking some of the aspects of what it was I was trying to build, I made a new prototype.
 
-![Landing page](<../src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.56.34.png>)
+![Landing page](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/blog/20230704-i-redesigned-my-personal-brand-7-times/Screenshot 2023-07-06 at 23.56.34.png)
 
 Was this the final product? By no means.
 
