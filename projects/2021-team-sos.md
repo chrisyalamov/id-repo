@@ -1,0 +1,40 @@
+---
+title: Team SOS
+id: 21 TSOS (M)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/barcode.jpg
+description: Brand identity development and campaign management for a social action project aiming to tackle sexism.
+properties:
+    -   key: Date
+        value: 2021
+    -   key: Role
+        value: Comms Manager
+tags:
+    - Campaign Management
+    - Branding
+    - Analytics
+    - Graphic design
+---
+
+# Setting the scene
+Team SOS (Stop Occupational Sexism) was a social action project running with funding and support from Envision UK. I was one of the 6 team members and assumed the role of Stakeholder Communications Manager, developing our brand identity and campaigns to keep in touch with the project's stakeholders. Our aim was to tackle occupational sexism through improving awareness and education within the Greater Bristol area. We wanted to highlight more subtle ways in which sexism exists in our daily lives (i.e. microagressions) and the importance of intersectionality.
+
+# Development
+## Target audiences
+To maximise its impact, Team SOS aimed to target two key groups—
+
+- **Young students (primary school age)**  
+Age at which learned/conditioned misogynistic behaviours and unconscious biases can be unlearned
+- **Young professionals (aged 18-25, in the Greater Bristol area)**  
+Open-minded demographic with some influence in their workplace
+
+# Outcome
+![SOS Logo](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/logo_pattern_d9a71eb225.jpg)
+
+Taking into account the project's aims and its context, a comprehensive brand identity was developed. The SOS logotype was the central identifying feature of the brand, alongisde a vibrant (yet professional colour scheme). To ensure the identity was preserved and applied appropriately, full brand guidelines were developed and implemented— e.g., guidance on logo usage.
+
+![Logo usage guidelines](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/brand_guidelines_1ad0d52f9b.jpg)
+![Brand gradients](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/gradients_ec66069f94.jpg)
+
+# Brand in action
+![Letterhead](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/letter_mockup_12f7913bf8.png)
+![Instagram feed](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2021-team-sos/ig_3d6c5c53cd.png)

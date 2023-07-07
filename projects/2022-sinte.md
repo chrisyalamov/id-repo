@@ -1,13 +1,13 @@
 ---
-title: Credit Suisse OSA
-id: 22 OSA* (D)
-barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/credit-suisse-osa/barcode.jpg
-description: Project OSA was a web platform developed for the International Wealth Management (IWM) division at Credit Suisse. It sought to improve management of key processes surrounding due diligence, know-your-client (KYC) and risk identification and mitigation.
+title: Sinte
+id: 22 SNTE (D)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2022-sinte/barcode.jpg
+description: Sinte was a hobby project intended to orchestrate workflows based on a JSON configuration file. It was developed in Node.js and used V8 isolates to run untrusted code.
 properties:
     -   key: Date
         value: 2022
-    -   key: Duration
-        value: 3 mo
+    -   key: Language
+        value: Node.js
 tags:
     - Node.js
     - Test-driven development (TDD)
@@ -31,3 +31,5 @@ I have also made an effort to keep my code consistent by using ESLint, which hel
 # Future plans for Sinte
 
 When running untrusted code, it may be wise for Sinte to implement more layers of protection against execution of malicious user code. I am currently exploring this using Deno, in a separate project.
+
+I would also change naming, for instance referring to the 'orchestrator' as a runner, to better reflect the purpose of the component.
