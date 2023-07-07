@@ -1,0 +1,43 @@
+---
+title: Business and Information Technology Society
+id: 23 BITS (D)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/barcode.jpg
+description: Building a brand for a new academic society at the Manchester Metropolitan Students' Union.
+properties:
+    -   key: Date
+        value: 2023
+    -   key: Duration
+        value: 1 mo
+tags:
+    - Branding
+    - Campaign management
+---
+
+> During my time at Manchester Metropolitan, I decided to start an academic society for students with an interest in business and technology.
+
+I developed a brand identity for the society, which encompasses the values and goals I and my committee shared.
+
+![Brand guidelines for the society](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/A4_25_d096bc87da.jpg)
+
+The Society has two logos— a primary abstract logo mark and "The Capsule"— a visual mark, intended to blend contemporary art styles with the heraldric concept of a coat of arms (or crest). The Capsule contains various elements which capture some of the foundational values of the society.
+
+# Development
+
+However, a brand goes far beyond just a logo. To preserve the society's messaging and identity past mine and my commitee's elected terms, I am doing two things: I have developed a set of brand guidelines which set out important details about our visual identity, tone of voice and aims; I am also in the process of creating Capsule, a design system which makes adhering to the brand guidelines seamless by providing atomic components for various use cases.
+
+<Carousel>
+![Logo usage guidelines](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/A4_23_02d24c8380.jpg)
+![Brand guidelines](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/A4_24_6a3083e52e.jpg)
+![Capsule design system](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/Screenshot_2023_04_07_at_03_21_1_8bb3893d02.jpg)
+![Sample capsule components](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/Screenshot_2023_04_07_at_03_23_1_93321aa4f8.jpg)
+</Carousel>
+
+# Brand in action
+
+We have used the brand guidelines and resources to design content for social media.
+![Social media assets](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/Screenshot_2023_04_07_at_03_23_1_93321aa4f8.jpg)/Screenshot_2023_04_07_at_03_04_1_51a0272870.jpg)
+
+We have also applied those guidelines to other digital and print promotional material, such as slide decks and leaflets.
+
+![Branded posters](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/Screenshot_2023_04_07_at_03_09_1_f95015b055.jpg)
+![Branded leaflet](https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-bit-society/Screenshot_2023_04_07_at_03_10_1_8b900fe896.jpg)
