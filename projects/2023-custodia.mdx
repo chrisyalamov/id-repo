@@ -1,0 +1,24 @@
+---
+title: Custodia
+id: 23 CSTD (D)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-custodia/barcode.jpg
+description: TypeScript utility library for creating an OAuth2 Identity Provider.
+properties:
+    -   key: Date
+        value: 2023
+    -   key: Language
+        value: TypeScript
+tags:
+    - Typescript
+    - OAuth2
+---
+
+# The library
+Custodia is a TypeScript package which helps developers create an OAuth2 Identity Provider compliant with RFC 6749. The package is available on npm and the source code is available on Github.
+
+It provides utility functions like generateAuthorizationCode(), exchangeCode, exchangeRefreshToken and verifyAccessToken. When an instance of Custodia is created, the developer provides handler functions which define how to interact with the database. This means Custodia is not bound to one specific database product.
+
+# Inspiration and Development
+The style of this library was inspired by Matthew Miller's SimpleWebauthn library, which makes it easy for developers to add WebAuthn capability to their websites. While using his package, I found its design to provide a great developer experience and I wanted to apply this to a problem I myself have faced— creating an OAuth2 identity provider.
+
+This is the first project I have deployed that supports TypeScript. I have tried to keep the codebase up to industry standards by documenting my code using TSDoc and linting it to keep a consistent coding style.
