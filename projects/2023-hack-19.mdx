@@ -1,0 +1,37 @@
+---
+title: "Project: Hack 19"
+id: 23 HK19 (D)
+barcode: https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-hack-19/barcode.jpg
+description: "Project: Hack 19 is a hackathon event, where teams have to develop a solution which addresses a particular challenge in industry."
+properties:
+    -   key: Date
+        value: 19-20 Jun 2023
+    -   key: Location
+        value: Etihad Stadium, Manchester
+    -   key: Role
+        value: Team leader
+tags:
+    - RDBMS
+    - Serverless
+    - SQL
+---
+
+# Context
+
+In June of 2023, I took part in the Project: Hack 19 hackathon. My team decided to tackle a challenge set by the UK-based consultancy firm **gleeds** to develop a solution which streamlines processes around recruitment and collection of feedback from interviews.
+
+The challenge took place at the Etihad Stadium in Manchester over the course of two days.
+
+# Approach
+
+Given the limited timeframe, we decided to use Platform-as-a-Service products (in our case Supabase) and Software-as-a-Service products (e.g. Retool) to speed up development and deliver a minimum viable product.
+
+Supabase was used for storing and processing the data needed for our solution, using their PostgreSQL database and edge functions. Data write operations would sometimes trigger API requests to OpenAI's GPT-3 API to generate natural language insights from user-generated data.
+
+![Supabase data table](<https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-hack-19/Screenshot 2023-07-08 at 01.07.28.png>)
+
+To create a user interface, we used Retool, a low-code tool which allows for quickly building web applications that connect to data.
+
+![Candidates dashboard](<https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-hack-19/Screenshot 2023-07-08 at 01.02.30.png>)
+![Vacancies dashboard](<https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-hack-19/Screenshot 2023-07-08 at 01.03.16.png>)
+![Interview notes interface](<https://raw.githubusercontent.com/chrisyalamov/id-repo/main/src/projects/2023-hack-19/Screenshot 2023-07-08 at 01.06.06.png>)
